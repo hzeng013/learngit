@@ -7,6 +7,7 @@ Creating a new branch is quick.
 
 Branch switch test.
 
+Add a breanch f.
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL 
